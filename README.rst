@@ -1,10 +1,10 @@
 Python Netinfo
 ==============
-.. image:: https://readthedocs.org/projects/backscatter/badge/?version=latest
-    :target: https://backscatterio.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/netinfo/badge/?version=latest
+    :target: https://netinfo.readthedocs.io/en/latest/?badge=latest
 
-.. image:: https://badge.fury.io/py/backscatter.svg
-    :target: https://badge.fury.io/py/backscatter
+.. image:: https://badge.fury.io/py/netinfo.svg
+    :target: https://badge.fury.io/py/netinfo
 
 .. image:: https://img.shields.io/badge/License-MIT-yellow.svg
     :target: https://opensource.org/licenses/MIT
