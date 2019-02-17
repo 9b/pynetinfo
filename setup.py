@@ -8,7 +8,7 @@ def read(fname):
 
 setup(
     name='netinfo',
-    version='0.0.1',
+    version='0.0.2',
     description='Client to interact with Netinfo services.',
     author="Brandon Dixon",
     author_email="brandon@backscatter.io",

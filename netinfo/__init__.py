@@ -37,7 +37,8 @@ class Netinfo:
             'ip': 'lookup',
             'network': 'network-addresses',
             'as': 'as',
-            'port': 'port'
+            'port': 'port',
+            'asn': 'as'
         }
 
     def _request(self, endpoint, params=dict(), data=None):
